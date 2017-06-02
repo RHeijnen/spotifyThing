@@ -3,7 +3,7 @@ prototype spotify bot
 
 
 
-spotify slack bot, the wrong way.
+spotify slack bot, the wrong way made in a hour or 3.
 basicly a slack 'parser', uses the slack api, the spotify web api, and
 the spotify node api. Aswell as express to catch our authentication
 token ( who knew you could miss oath?)
